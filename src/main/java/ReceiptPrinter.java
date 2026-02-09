@@ -87,6 +87,8 @@ public class ReceiptPrinter {
         System.out.println("----------------------------------------");
 
 
+
+
         System.out.println("Thank you. Come again.");
     }
 }
