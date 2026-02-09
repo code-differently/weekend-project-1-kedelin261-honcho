@@ -8,7 +8,7 @@ In this class, you will see my main method that allows my receipt to RUN.
 In this class, you will see sections for User Inout, as well as Random Data generations. User Input, consist of my three question inquiring about Name, Budget and Vip code.
 
 ### PriceGenerator.java
-In this class, you will see mostly random data generators. Generating item prices, as well as random discounts, mystery adjustments, tax rates and rounded totals.
+In this class, you will see mostly random data generators. Generating item prices, as well as random discounts, mystery adjustments, tax rates and rounded totals. Also variable and output types that I need.
 
 ### CodeGenerator.java
 This class consist of if/else statements that build the receipt code. These if/else statements are based on the length of user input. There are also return statements to specify what my output should be.
