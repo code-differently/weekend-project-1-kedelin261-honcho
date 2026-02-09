@@ -18,4 +18,4 @@ This class has all contents that the receipt includes, which in return calls for
 
 ### CLOSING
 Thank you for using and analyzing my Random Receipt Generator with me!
-
+!
