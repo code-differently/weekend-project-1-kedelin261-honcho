@@ -16,7 +16,7 @@ public class CodeGenerator {
             key = (upper + "XXX").substring(0, 3);
         }
 
-        char marker = upper.length() > 0 ? upper.charAt(0) : 'G';  // charAt
+        char marker = !upper.isEmpty() ? upper.charAt(0) : 'G';  // charAt
 
         return key + "-" + marker + "-" + visitId;
 
